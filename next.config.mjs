@@ -4,8 +4,10 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/proyecto-x-encefalomielitis', // Reemplaza con el nombre de tu repositorio
-  assetPrefix: '/proyecto-x-encefalomielitis/', // Reemplaza con el nombre de tu repositorio
+  // Descomenta y reemplaza con el nombre de tu repositorio cuando lo subas a GitHub
+  // basePath: '/proyecto-x-encefalomielitis',
+  // assetPrefix: '/proyecto-x-encefalomielitis/',
 };
 
 export default nextConfig;
+

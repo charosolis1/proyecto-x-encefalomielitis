@@ -1,7 +1,7 @@
-import { Accordion } from "@/components/acordeon"
-import { Footer } from "@/components/footer"
-import { Header } from "@/components/header"
-import { Contacto } from "@/components/contacto"
+import { Accordion } from "../components/acordeon"
+import { Footer } from "../components/footer"
+import { Header } from "../components/header"
+import { Contacto } from "../components/contacto"
 
 export default function Home() {
   return (
